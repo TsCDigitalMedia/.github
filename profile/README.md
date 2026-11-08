@@ -42,7 +42,7 @@ We continuously prototype and publish software libraries, specialized algorithms
 
 ## 📬 Connect & Collaborate
 
-- **GitHub:** [github.com/frostblock](https://github.com/frostblock)
+- **GitHub:** [https://github.com/TsCDigitalMedia]
 - **Discord Community:** *[Insert Invite Link]*
 - **Contact:** contact@frostblock.org *(or your preferred email)*
 
