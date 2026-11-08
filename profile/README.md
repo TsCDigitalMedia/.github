@@ -44,7 +44,7 @@ We continuously prototype and publish software libraries, specialized algorithms
 
 - **GitHub:** [https://github.com/TsCDigitalMedia]
 - **Discord Community:** *[Insert Invite Link]*
-- **Contact:** contact@frostblock.org *(or your preferred email)*
+- **Contact:** contact@frostblock.org
 
 ---
 *© Frostblock. Built with precision, curiosity, and code.*
